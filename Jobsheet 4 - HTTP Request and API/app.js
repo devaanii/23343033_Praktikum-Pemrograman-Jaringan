@@ -1,14 +1,12 @@
 const request = require('postman-request')
 // const url = 'http://api.weatherstack.com/current?access_key=a96460a2f9e4793c6e5d43bfb099e8a4&query=-0.90591,100.36016'
 
-
 // request({ url: url }, (error, response) => { 
-// // console.log(response)
-//     const data = JSON.parse(response.body)
-//     //console.log(data)
-//     //console.log(data.current)
-//     console.log(data.current.temperature)
-
+//   //console.log(response)
+//   const data = JSON.parse(response.body)
+//   //console.log(data)
+//   //console.log(data.current)
+//   console.log(data.current.temperature)
 // })
 
 const geocodeURL = 'https://api.mapbox.com/geocoding/v5/mapbox.places/Padang.json?access_token=pk.eyJ1IjoibWllY2hja2VuIiwiYSI6ImNtaDRqNHpsczFjZGYyam9kazBmZ2JuZmEifQ.yWTWzGVRI4RQKs8VUzVLHg&limit=1'

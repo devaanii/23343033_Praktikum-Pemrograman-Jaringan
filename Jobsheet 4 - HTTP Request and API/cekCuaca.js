@@ -5,9 +5,7 @@ request({ url: urlCuaca, json: true }, (error, response) => {
     console.log('Saat ini suhu diluar mencapai ' + response.body.current.temperature + 
         ' derajat celcius. Kemungkinan terjadinya hujan adalah ' + response.body.current.precip + '%')
 
-
-
     const deskripsi = (response.body.current.weather_descriptions || [])[0] || '-';
     console.log('Deskripsi cuaca: ' + deskripsi);
-    console.log('Cuaca hari ini terasa: ${deskripsi.toLowerCase()}');
+    console.log(`Cuaca hari ini terasa: ${deskripsi.toLowerCase()}`);
 })
