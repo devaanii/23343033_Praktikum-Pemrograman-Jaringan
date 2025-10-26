@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+h1 {
+  color: grey;
+}
+
+img {
+  width: 250px;
+}
+
+body { 
+  color: #333333; 
+  font-family: arial; 
+  max-width: 650px; 
+  margin: 0 auto; 
+  padding: 0 16px; 
+  display: flex; 
+  flex-direction: column; 
+  min-height: 100vh 
+}
+
+.main-content { 
+  flex-grow: 1; 
+} 
+ 
+footer { 
+  color: #888888; 
+  border-top: 1px solid #eeeeee; 
+  margin-top: 16px; 
+  padding: 16px 0; 
+} 
+ 
+header { 
+  margin-top: 16px; 
+  margin-bottom: 48px; 
+} 
+ 
+h1 { 
+  font-size: 64px; 
+  margin-bottom: 16px; 
+} 
+ 
+header a { 
+  color: #888888; 
+  margin-right: 16px; 
+  text-decoration: none; 
+} 
+ 
+.portrait { 
+  width: 250px; 
+} 
+
+input { 
+  border: 2px solid #cccccc;
+  padding: 8px;
+  border-radius: 9px;
+}
+
+button {
+  cursor: pointer;
+  border: 0px solid #cccccc;
+  background: #888888;
+  color: white;
+  padding: 9px;
+  border-radius: 9px;
+}
+
+.about {
+    padding: 2rem 0; 
+    font-family: "Inter", sans-serif;
+}
+
+.about .row{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: nowrap;
+    border: #FFEB3B 3px solid;
+    border-radius: 2rem;
+    transition: all 0.4s ease-in-out;
+}
+
+.about .row:hover{
+  transform: scale(1.01);      /* sedikit membesar */
+  box-shadow: 0 4px 20px rgba(193, 142, 0, 0.3); /* efek bayangan */
+}
+
+
+.about .row .about-img {
+    width: 100%;
+    border-radius: .5rem;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about .row .about-img img{
+    border-radius: .5rem;
+    height: 200px;
+    width: auto;
+    object-fit: cover;
+    margin: 20px;
+}
+.about .container {
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+
+}
+
+.about .container p{
+  font-size: 13px;
+}
+
+.about .container h2{
+    margin-bottom: 1.5rem;
+}
+
+.bantuan .container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  gap: 30px; 
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.bantuan .box {
+    align-items: center;
+    border: #FFEB3B 3px solid;
+    border-radius: 2rem;
+    transition: all 0.4s ease-in-out;
+}
+
+.bantuan .box:hover{
+  transform: scale(1.01);      
+  box-shadow: 0 4px 20px rgba(193, 142, 0, 0.3); 
+}
+
+.bantuan .box .teks{
+    margin: 2rem ;
+}
+
+.bantuan .box .teks h3{
+    font-size: medium;
+}
+.bantuan .container h2{
+  margin-top: 0px;
+}
+
+.bantuan .box .teks p{
+    font-size: small;
+}
