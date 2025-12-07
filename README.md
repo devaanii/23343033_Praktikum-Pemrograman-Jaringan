@@ -35,28 +35,27 @@ Repositori ini berisi dokumentasi aktivitas praktikum dari mata kuliah **Praktik
 ## 📑 Daftar Jobsheet
 
 ### **1️⃣ Jobsheet 1 – Pengantar Node.js**
-Memahami dasar-dasar Node.js, environment, serta cara menjalankan JavaScript di sisi server.
+Pada bagian ini dipelajari dasar-dasar pemrograman berbasis jaringan, mulai dari memahami bagaimana client dan server saling berkomunikasi, mengenal lingkungan kerja Node.js, sampai melihat peran dan keunggulan Node.js dalam pengembangan aplikasi jaringan. Pada jobsheet ini juga terdapat proses instalasi Node.js sebagai dasar untuk praktikum selanjutnya.
 
 ---
 
 ### **2️⃣ Jobsheet 2 – JavaScript Essential**
-Pembahasan fundamental JavaScript untuk backend: variabel, fungsi, array, objek, hingga modularisasi.
+Jobsheet ini berisi pengenalan dasar JavaScript yang digunakan dalam pengembangan aplikasi berbasis jaringan. Di sini dijelaskan apa itu JavaScript, bagaimana cara kerjanya, serta perannya sebagai bahasa yang dapat berjalan di sisi server maupun client. Tujuannya agar dapat memahami dasar JavaScript sebelum masuk ke materi Node.js dan pembuatan API.
 
 ---
 
 ### **3️⃣ Jobsheet 3 – Node.js Module System**
-Memahami CommonJS vs ES Module, modul custom, dan struktur aplikasi yang modular.
+Pada bagian ini mempelajari cara kerja sistem modul di Node.js, mulai dari mengimpor modul, menggunakan file, memasang package lewat npm, hingga memahami penggunaan command line arguments dalam menjalankan program Node.js.
 
 ---
 
 ### **4️⃣ Jobsheet 4 – HTTP Request & API**
-Belajar konsep HTTP Request, REST API, dan mengambil data dari berbagai endpoint menggunakan Node.js.
+Jobsheet ini memperkenalkan dasar cara kerja permintaan HTTP serta bagaimana sebuah API menyediakan data atau layanan yang bisa diakses oleh aplikasi lain. Pembahasan berfokus pada konsep dasar request–response dan bagaimana API menjadi jembatan komunikasi antar sistem.
 
 ---
 
 ### **5️⃣ Jobsheet 5 – Web Server & Express.js**
-Membangun web server dengan Express.js, routing, middleware, dan response.
-
+Jobsheet ini membahas dasar cara kerja web server serta bagaimana Express.js membantu membuat server yang lebih simpel, rapi, dan mudah dikembangkan. Fokusnya pada memahami alur request–response dan bagaimana Express menangani routing serta fitur umum yang sering dipakai saat membangun aplikasi berbasis web.
 ---
 
 ### **6️⃣ Jobsheet 6 – JSON HTTP Endpoints**
