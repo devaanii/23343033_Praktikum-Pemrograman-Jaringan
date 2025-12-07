@@ -53,30 +53,18 @@ Pada bagian ini mempelajari cara kerja sistem modul di Node.js, mulai dari mengi
 Jobsheet ini memperkenalkan dasar cara kerja permintaan HTTP serta bagaimana sebuah API menyediakan data atau layanan yang bisa diakses oleh aplikasi lain. Pembahasan berfokus pada konsep dasar request–response dan bagaimana API menjadi jembatan komunikasi antar sistem.
 
 ---
-
 ### **5️⃣ Jobsheet 5 – Web Server & Express.js**
-Jobsheet ini membahas dasar cara kerja web server serta bagaimana Express.js membantu membuat server yang lebih simpel, rapi, dan mudah dikembangkan. Fokusnya pada memahami alur request–response dan bagaimana Express menangani routing serta fitur umum yang sering dipakai saat membangun aplikasi berbasis web.
+Jobsheet ini membahas dasar cara kerja web server serta bagaimana Express.js membantu membuat server yang lebih simpel, rapi, dan mudah dikembangkan. Fokusnya pada memahami alur request-response dan bagaimana Express menangani routing serta fitur umum yang sering dipakai saat membangun aplikasi berbasis web.
+
 ---
 
 ### **6️⃣ Jobsheet 6 – JSON HTTP Endpoints**
-Membuat endpoint berbasis JSON dan mini REST API dengan penanganan request–response.
+Jobsheet ini difokuskan pada cara membuat endpoint berbasis JSON menggunakan Express.js. Pembahasan utamanya mencakup bagaimana sebuah server mengirimkan dan menerima data dalam format JSON, bagaimana membuat route yang lebih terstruktur, serta bagaimana membangun dasar sebuah REST API yang sederhana namun fungsional.
 
 ---
 
 ### **7️⃣ Jobsheet 7 – Version Control & App Deployment**
-Belajar Git, GitHub, workflow version control, dan deployment aplikasi Node/Express.
-
----
-
-## 📂 Struktur Direktori
-/
-├── jobsheet-01/
-├── jobsheet-02/
-├── jobsheet-03/
-├── jobsheet-04/
-├── jobsheet-05/
-├── jobsheet-06/
-└── jobsheet-07/
+Materi ini mengenalkan cara mengelola perubahan kode menggunakan Git agar pengembangan lebih rapi, terstruktur, dan mudah dilacak. Selain itu, dipelajari juga proses dasar melakukan deployment aplikasi, mulai dari menyiapkan proyek hingga mempublikasikannya agar dapat diakses secara online.
 
 ---
 
@@ -91,7 +79,7 @@ Belajar Git, GitHub, workflow version control, dan deployment aplikasi Node/Expr
 ## 🧑‍💻 Teknologi yang Digunakan
 - **Node.js**
 - **Express.js**
-- **JavaScript Modern (ES6+)**
+- **JavaScript**
 - **Git & GitHub**
 - **REST API**
 
