@@ -20,10 +20,9 @@ dengan materi berbasis **Node.js, Express.js, dan Web API**.
 ## 📚 Table of Contents
 1. [📘 Deskripsi](#-deskripsi)
 2. [📑 Daftar Jobsheet](#-daftar-jobsheet)
-3. [📂 Struktur Direktori](#-struktur-direktori)
-4. [🚀 Tujuan Repositori](#-tujuan-repositori)
-5. [🧑‍💻 Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-6. [📜 Lisensi](#-lisensi)
+3. [🚀 Tujuan Repositori](#-tujuan-repositori)
+4. [🧑‍💻 Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+
 
 ---
 
