@@ -76,6 +76,15 @@ Materi ini mengenalkan cara mengelola perubahan kode menggunakan Git agar pengem
 
 ---
 
+### **8️⃣ Jobsheet 8 - MongoDB dan Database Server**
+Materi ini membahas mengenai penginstalan MongoDB dan MongoDB Compass dan mempraktikan operasi dasar CRUD (Create, Read, Update dan Delete) menggunakan Node.js dan library mongodb. Praktikum ini dimulai dengan memasukkan data, membaca data berdasarkan kriteria tertentu, memperbarui data hingga menghapus data. 
+
+---
+### **9️⃣ Jobsheet 9 - Socket Programming**
+Pada materi ini diarahkan untuk membangun aplikasi chat real-time sederhana yang mendukung pengiriman pesan teks, berbagi lokasi, manajemen pengguna dan room serta sikronisasi data antar klien secara langsung. Secara keseluruhan, jobsheet ini bertujuan agar dapat memahami konsep komunikasi secara real-time bidirectional communication menggunakan Socket.IO dan Node.js
+
+---
+
 ## 🚀 Tujuan Repositori
 - Mendokumentasikan seluruh hasil praktikum  
 - Menjadi referensi pembelajaran  
